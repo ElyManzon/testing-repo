@@ -1,101 +1,260 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;IFRC;Health;Safety;Ambulance Transport;1753;175318;1;Finished;1;Individual
-2;IFRC;Health;Safety;Ambulance Transport;1753;175318;Barbacan;Finished;1;Individual
-3;IFRC;Health;Safety;Ambulance Transport;1667;166707;Jubang;Finished;1;Individual
-4;IFRC;Health;Safety;Ambulance Transport;1753;175316;Langogan;Finished;1;Individual
-5;IFRC;Health;Safety;Ambulance Transport;1753;175318;Poblacion 1;Finished;1;Individual
-6;IFRC;Health;Safety;Ambulance Transport;1753;175318;Tinitian;Finished;1;Individual
-7;IFRC;Health;Safety;Ambulance Transport;1753;175318;Tinitian;Finished;1;Individual
-8;IFRC;Health;Safety;Ambulance Transport;1667;166724;;Finished;1;Individual
-9;IFRC;Health;Safety;Ambulance Transport;1667;166724;;Finished;1;Individual
-10;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;1;Individual
-11;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;1;Individual
-12;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;1;Individual
-13;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;1;Individual
-14;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;1;Individual
-15;IFRC;Health;Safety;Ambulance Transport;1667;166724;;Finished;3;Individuals
-16;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;4;Individuals
-17;IFRC;Health;Safety;Ambulance Transport;1667;;;Finished;6;Individuals
-18;PRC;Relief;Non Food Items;Assorted Hygiene Kit;864;86407;Abgao;Finished;100;families
-19;IFRC;Health;Health;Basic Health Care Unit;1667;166707;Poblacion 3;Finished;1;unit
-20;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;San Roque;Finished;1;Individual
-21;IFRC;Health;Safety;Blood Pressure Taking;722;72234;Tina-an;Finished;1;Individual
-22;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;1;Individual
-23;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;1;Individual
-24;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;2;Individuals
-25;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;2;Individuals
-26;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;2;Individuals
-27;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;2;Individuals
-28;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;3;Individuals
-29;PRC;Health;Safety;Blood Pressure Taking;722;72226;Ibo;Finished;4;Individuals
-30;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;4;Individuals
-31;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;4;Individuals
-32;PRC;Health;Safety;Blood Pressure Taking;722;72226;Ibo;Finished;5;Individuals
-33;IFRC;Health;Safety;Blood Pressure Taking;1753;175318;Magara;Finished;5;Individuals
-34;IFRC;Health;Safety;Blood Pressure Taking;722;72217;Pahina Central;Finished;5;Individuals
-35;PRC;Health;Safety;Blood Pressure Taking;722;72226;Pusok;Finished;5;Individuals
-36;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Rizal;Finished;5;Individuals
-37;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;5;Individuals
-38;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;5;Individuals
-39;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;5;Individuals
-40;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;6;Individuals
-41;IFRC;Health;Safety;Blood Pressure Taking;864;86406;Poblacion;Finished;7;Individuals
-42;PRC;Health;Safety;Blood Pressure Taking;722;72226;Ibo;Finished;11;Individuals
-43;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;12;Individuals
-44;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;12;Individuals
-45;PRC;Health;Safety;Blood Pressure Taking;722;72226;Ibo;Finished;13;Individuals
-46;IFRC;Health;Safety;Blood Pressure Taking;712;71201;Punong;Finished;13;Individuals
-47;IFRC;Health;Safety;Blood Pressure Taking;712;71201;Punong;Finished;13;Individuals
-48;PRC;Health;Safety;Blood Pressure Taking;722;72226;Bankal;Finished;14;Individuals
-49;PRC;Health;Safety;Blood Pressure Taking;722;72226;Pusok;Finished;14;Individuals
-50;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Capalayan;Finished;15;Individuals
-51;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;15;Individuals
-52;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;15;Individuals
-53;IFRC;Health;Safety;Blood Pressure Taking;712;71228;Agape;Finished;16;Individuals
-54;IFRC;Health;Safety;Blood Pressure Taking;712;71243;Poblacion;Finished;16;Individuals
-55;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;16;Individuals
-56;IFRC;Health;Safety;Blood Pressure Taking;712;71246;Central;Finished;18;Individuals
-57;IFRC;Health;Safety;Blood Pressure Taking;712;71245;Kawayanan;Finished;18;Individuals
-58;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;18;Individuals
-59;PRC;Health;Safety;Blood Pressure Taking;722;72226;Canjulao;Finished;20;Individuals
-60;IFRC;Health;Safety;Blood Pressure Taking;712;71228;Villa Limpia;Finished;20;Individuals
-61;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;21;Individuals
-62;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;21;Individuals
-63;PRC;Health;Safety;Blood Pressure Taking;722;72226;Buaya;Finished;22;Individuals
-64;PRC;Health;Safety;Blood Pressure Taking;619;61914;Culasi;Finished;22;individuals
-65;PRC;Health;Safety;Blood Pressure Taking;722;72226;Ibo;Finished;22;Individuals
-66;IFRC;Health;Safety;Blood Pressure Taking;722;72214;Perrelos;Finished;24;Individuals
-67;PRC;Health;Safety;Blood Pressure Taking;722;72226;Pusok;Finished;24;Individuals
-68;IFRC;Health;Safety;Blood Pressure Taking;712;71228;Sitio Alapog Kalbaryo;Finished;24;Individuals
-69;IFRC;Health;Safety;Blood Pressure Taking;722;72230;Jagobiao;Finished;25;Individuals
-70;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;25;Individuals
-71;PRC;Health;Safety;Blood Pressure Taking;722;72226;Looc;Finished;26;Individuals
-72;IFRC;Health;Safety;Blood Pressure Taking;712;71245;Paca-Paca;Finished;26;Individuals
-73;IFRC;Health;Safety;Blood Pressure Taking;1667;;;Finished;28;Individuals
-74;IFRC;Health;Safety;Blood Pressure Taking;712;71245;Centro;Finished;29;Individuals
-75;IFRC;Health;Safety;Blood Pressure Taking;1753;175318;Tinitian;Finished;29;Individuals
-76;IFRC;Health;Safety;Blood Pressure Taking;712;71229;Camay- An;Finished;30;Individuals
-77;IFRC;Health;Safety;Blood Pressure Taking;712;71248;Tuboran;Finished;30;Individuals
-78;IFRC;Health;Safety;Blood Pressure Taking;712;71214;Poblacion Sur;Finished;32;Individuals
-79;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;San Roque;Finished;32;Individuals
-80;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;San Roque;Finished;32;Individuals
-81;IFRC;Health;Safety;Blood Pressure Taking;1667;166716;Consolacion;Finished;33;Individuals
-82;IFRC;Health;Safety;Blood Pressure Taking;712;71246;Poblacion;Finished;33;Individuals
-83;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Punta Bilar;Finished;33;Individuals
-84;PRC;Health;Safety;Blood Pressure Taking;722;72226;Mactan;Finished;37;Individuals
-85;IFRC;Health;Safety;Blood Pressure Taking;712;71245;Kawayanan;Finished;38;Individuals
-86;IFRC;Health;Safety;Blood Pressure Taking;722;72250;Dumlog;Finished;39;Individuals
-87;IFRC;Health;Safety;Blood Pressure Taking;712;71224;Lutao;Finished;41;Individuals
-88;IFRC;Health;Safety;Blood Pressure Taking;712;71243;San Isidro;Finished;41;Individuals
-89;IFRC;Health;Safety;Blood Pressure Taking;712;71243;Central;Finished;45;Individuals
-90;PRC;Health;Safety;Blood Pressure Taking;722;72226;Pusok;Finished;45;Individuals
-91;PRC;Health;Safety;Blood Pressure Taking;619;61914;Banica;Finished;55;individuals
-92;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;Washington;Finished;55;Individuals
-93;IFRC;Health;Safety;Blood Pressure Taking;1667;166724;;Finished;55;Individuals
-94;IFRC;Health;Safety;Blood Pressure Taking;712;71214;Bonbon;Finished;56;Individuals
-95;IFRC;Health;Safety;Blood Pressure Taking;712;71214;Poblacion Norte;Finished;56;Individuals
-96;PRC;Health;Safety;Blood Pressure Taking;722;72226;Mactan;Finished;57;Individuals
-97;IFRC;Health;Safety;Blood Pressure Taking;1753;175318;Minara;Finished;57;Individuals
-98;PRC;Health;Safety;Blood Pressure Taking;722;72226;Canjulao;Finished;60;Individuals
-99;IFRC;Health;Safety;Blood Pressure Taking;1753;175318;Poblacion 1;Finished;73;Individuals
-100;IFRC;Health;Safety;Blood Pressure Taking;712;71246;Poblacion;Finished;78;Individuals
+1;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+25;Philippine Red Cross;Relief;Food;Food (5kgs/rice);PH020900000;PH020901000;;Finished;15;individuals
+26;Philippine Red Cross;Relief;Food;Food (5kgs/rice);PH020900000;PH020901000;;Finished;10;individuals
+27;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;-;Finished;10;individuals
+28;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;39;individuals
+29;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;28;individuals
+31;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;12;individuals
+32;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;12;individuals
+33;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;11;individuals
+34;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;Valugan;Finished;29;individuals
+35;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH020900000;PH020901000;San Joaquin;Finished;11;individuals
+36;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;San Joaquin;Finished;27;individuals
+37;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;Chanarian Tukon;Finished;9;individuals
+38;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;San Antonio;Finished;54;individuals
+39;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;San Antonio;Finished;1;individuals
+40;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;Kayvalungan;Finished;119;individuals
+41;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;Kayvalungan;Finished;1;individuals
+42;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;Kayhuvokan;Finished;29;individuals
+43;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020901000;Kaychanarianan;Finished;42;individuals
+67;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;San Joaquin;Finished;27;families
+68;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+69;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;San Antonio;Finished;54;families
+70;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+71;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;San Antonio;Finished;1;families
+72;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+73;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+74;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;San Joaquin;Finished;27;families
+75;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+76;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;San Antonio;Finished;54;families
+77;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+78;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;San Antonio;Finished;1;families
+79;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+80;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+81;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+82;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+129;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;San Joaquin;Finished;27;families
+130;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+131;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;San Antonio;Finished;54;families
+132;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;Kayvalungan;Finished;119;families
+133;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;San Antonio;Finished;1;families
+134;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;Kayvalungan;Finished;1;families
+135;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+136;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+160;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;San Joaquin;Finished;27;families
+161;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+162;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;San Antonio;Finished;54;families
+163;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+164;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;San Antonio;Finished;1;families
+165;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+166;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+167;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+191;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;San Joaquin;Finished;27;families
+192;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+193;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;San Antonio;Finished;54;families
+194;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+195;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;San Antonio;Finished;1;families
+196;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+197;Philippine Red Cross;Relief;Non food items;Solar Lamp;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+198;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;San Joaquin;Finished;27;families
+199;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+200;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;San Antonio;Finished;54;families
+201;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+202;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;San Antonio;Finished;1;families
+203;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+204;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+205;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+229;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;San Joaquin;Finished;27;families
+230;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;Chanarian Tukon;Finished;9;families
+231;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;San Antonio;Finished;54;families
+232;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;Kayvalungan;Finished;119;families
+233;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;San Antonio;Finished;1;families
+234;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;Kayvalungan;Finished;1;families
+235;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;Kayhuvokan;Finished;29;families
+236;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020901000;Kaychanarianan;Finished;42;families
+20;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+21;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+22;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020902000;San Rafael;Finished;9;families
+23;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+24;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020902000;Raele;Finished;1;families
+62;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020902000;Sta. Rosa;Finished;23;individuals
+63;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020902000;Sta. Lucia;Finished;2;individuals
+64;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020902000;San Rafael;Finished;9;individuals
+65;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020902000;Sta. Maria;Finished;7;individuals
+66;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020902000;Raele;Finished;1;individuals
+119;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+120;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+121;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+122;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+123;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020902000;San Rafael;Finished;9;families
+124;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020902000;San Rafael;Finished;9;families
+125;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+126;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+127;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020902000;Raele;Finished;1;families
+128;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020902000;Raele;Finished;1;families
+155;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+156;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+157;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020902000;San Rafael;Finished;9;families
+158;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020902000;Sta. Maria;Finished;7;families
+159;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020902000;Raele;Finished;1;families
+186;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+187;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+188;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020902000;San Rafael;Finished;9;families
+189;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+190;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020902000;Raele;Finished;1;families
+224;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+225;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+226;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020902000;San Rafael;Finished;9;families
+227;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+228;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020902000;Raele;Finished;1;families
+255;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020902000;Sta. Rosa;Finished;23;families
+256;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020902000;Sta. Lucia;Finished;2;families
+257;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020902000;San Rafael;Finished;9;families
+258;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020902000;Sta. Maria;Finished;7;families
+259;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020902000;Raele;Finished;1;families
+2;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020903000;Radiwan;Finished;5;families
+3;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020903000;Salagao;Finished;9;families
+4;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020903000;San Vicente;Finished;5;families
+5;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020903000;Tuhel;Finished;4;families
+44;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020903000;Radiwan;Finished;5;individuals
+45;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020903000;Salagao;Finished;9;individuals
+46;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020903000;San Vicente;Finished;5;individuals
+47;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020903000;Tuhel;Finished;4;individuals
+83;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020903000;Radiwan;Finished;5;families
+84;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020903000;Radiwan;Finished;5;families
+85;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020903000;Salagao;Finished;9;families
+86;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020903000;Salagao;Finished;9;families
+87;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020903000;San Vicente;Finished;5;families
+88;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020903000;San Vicente;Finished;5;families
+89;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020903000;Tuhel;Finished;4;families
+90;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020903000;Tuhel;Finished;4;families
+137;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020903000;Radiwan;Finished;5;families
+138;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020903000;Salagao;Finished;9;families
+139;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020903000;San Vicente;Finished;5;families
+140;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020903000;Tuhel;Finished;4;families
+168;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020903000;Radiwan;Finished;5;families
+169;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020903000;Salagao;Finished;9;families
+170;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020903000;San Vicente;Finished;5;families
+171;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020903000;Tuhel;Finished;4;families
+206;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020903000;Radiwan;Finished;5;families
+207;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020903000;Salagao;Finished;9;families
+208;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020903000;San Vicente;Finished;5;families
+209;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020903000;Tuhel;Finished;4;families
+237;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020903000;Radiwan;Finished;5;families
+238;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020903000;Salagao;Finished;9;families
+239;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020903000;San Vicente;Finished;5;families
+240;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020903000;Tuhel;Finished;4;families
+6;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020904000;Uvoy;Finished;14;families
+7;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+8;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020904000;Hañib;Finished;2;families
+9;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020904000;Panatayan;Finished;3;families
+48;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020904000;Uvoy;Finished;14;individuals
+49;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020904000;Kaumbakan;Finished;3;individuals
+50;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020904000;Hañib;Finished;2;individuals
+51;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020904000;Panatayan;Finished;3;individuals
+91;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020904000;Uvoy;Finished;14;families
+92;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020904000;Uvoy;Finished;14;families
+93;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+94;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+95;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020904000;Hañib;Finished;2;families
+96;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020904000;Hañib;Finished;2;families
+97;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020904000;Panatayan;Finished;3;families
+98;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020904000;Panatayan;Finished;3;families
+141;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020904000;Uvoy;Finished;14;families
+142;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020904000;Kaumbakan;Finished;3;families
+143;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020904000;Hañib;Finished;2;families
+144;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020904000;Panatayan;Finished;3;families
+172;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020904000;Uvoy;Finished;14;families
+173;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+174;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020904000;Hañib;Finished;2;families
+175;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020904000;Panatayan;Finished;3;families
+210;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020904000;Uvoy;Finished;14;families
+211;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+212;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020904000;Hañib;Finished;2;families
+213;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020904000;Panatayan;Finished;3;families
+241;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020904000;Uvoy;Finished;14;families
+242;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020904000;Kaumbakan;Finished;3;families
+243;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020904000;Hañib;Finished;2;families
+244;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020904000;Panatayan;Finished;3;families
+14;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Chavayan;Finished;1;families
+15;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+16;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Sumnanga;Finished;4;families
+17;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Savidug;Finished;3;families
+18;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Sinakan;Finished;4;families
+19;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020905000;Malakdang;Finished;5;families
+56;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Chavayan;Finished;1;individuals
+57;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Nakanmuan;Finished;3;individuals
+58;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Sumnanga;Finished;4;individuals
+59;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Savidug;Finished;3;individuals
+60;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Sinakan;Finished;4;individuals
+61;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020905000;Malakdang;Finished;5;individuals
+107;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Chavayan;Finished;1;families
+108;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Chavayan;Finished;1;families
+109;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+110;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+111;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Sumnanga;Finished;4;families
+112;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Sumnanga;Finished;4;families
+113;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Savidug;Finished;3;families
+114;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Savidug;Finished;3;families
+115;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Sinakan;Finished;4;families
+116;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Sinakan;Finished;4;families
+117;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020905000;Malakdang;Finished;5;families
+118;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020905000;Malakdang;Finished;5;families
+149;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Chavayan;Finished;1;families
+150;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Nakanmuan;Finished;3;families
+151;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Sumnanga;Finished;4;families
+152;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Savidug;Finished;3;families
+153;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Sinakan;Finished;4;families
+154;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020905000;Malakdang;Finished;5;families
+180;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Chavayan;Finished;1;families
+181;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+182;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Sumnanga;Finished;4;families
+183;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Savidug;Finished;3;families
+184;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Sinakan;Finished;4;families
+185;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020905000;Malakdang;Finished;5;families
+218;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Chavayan;Finished;1;families
+219;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+220;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Sumnanga;Finished;4;families
+221;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Savidug;Finished;3;families
+222;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Sinakan;Finished;4;families
+223;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020905000;Malakdang;Finished;5;families
+249;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Chavayan;Finished;1;families
+250;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Nakanmuan;Finished;3;families
+251;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Sumnanga;Finished;4;families
+252;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Savidug;Finished;3;families
+253;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Sinakan;Finished;4;families
+254;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020905000;Malakdang;Finished;5;families
+30;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;PH021500000;PH021523000;Palawig;Finished;372;individuals
+10;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020906000;Imnajbu;Finished;3;families
+11;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020906000;Itbud;Finished;14;families
+12;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020906000;Kayuganan;Finished;11;families
+13;Philippine Red Cross;Relief;Non food items;Flashlight;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+52;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020906000;Imnajbu;Finished;3;individuals
+53;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020906000;Itbud;Finished;14;individuals
+54;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020906000;Kayuganan;Finished;11;individuals
+55;Philippine Red Cross;WASH;WASH;Hygiene Promotion;PH020900000;PH020906000;Kayvaluganan;Finished;5;individuals
+99;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020906000;Imnajbu;Finished;3;families
+100;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020906000;Imnajbu;Finished;3;families
+101;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020906000;Itbud;Finished;14;families
+102;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020906000;Itbud;Finished;14;families
+103;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020906000;Kayuganan;Finished;11;families
+104;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020906000;Kayuganan;Finished;11;families
+105;American Red Cross;WASH;WASH;IEC materials;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+106;American Red Cross;Shelter;Shelter;IEC materials;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+145;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020906000;Imnajbu;Finished;3;families
+146;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020906000;Itbud;Finished;14;families
+147;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020906000;Kayuganan;Finished;11;families
+148;American Red Cross;Relief;WASH;Jerry Can (10L);PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+176;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020906000;Imnajbu;Finished;3;families
+177;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020906000;Itbud;Finished;14;families
+178;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020906000;Kayuganan;Finished;11;families
+179;American Red Cross;Relief;Shelter;Shelter Toolkit;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+214;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020906000;Imnajbu;Finished;3;families
+215;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020906000;Itbud;Finished;14;families
+216;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020906000;Kayuganan;Finished;11;families
+217;Philippine Red Cross - Netherlands Red Cross;Relief;Shelter;Tarpaulin;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
+245;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020906000;Imnajbu;Finished;3;families
+246;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020906000;Itbud;Finished;14;families
+247;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020906000;Kayuganan;Finished;11;families
+248;Philippine Red Cross;Relief;WASH;Water purification tablets;PH020900000;PH020906000;Kayvaluganan;Finished;5;families
